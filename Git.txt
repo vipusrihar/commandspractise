@@ -1,5 +1,5 @@
 Hello I'm Vipusa Sriharan
-
+I am learing GITHUB
 Push your Local Code
     1. Click `ctrl` + `shift` + `'` to open the terminal in VSCode.
     2. Add these codes one by one
