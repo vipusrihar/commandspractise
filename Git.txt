@@ -1,4 +1,4 @@
-Hello I'm Vipusa
+Hello I'm Vipusa Sriharan
 
 Push your Local Code
     1. Click `ctrl` + `shift` + `'` to open the terminal in VSCode.
