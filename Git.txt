@@ -1,0 +1,19 @@
+Hello I'm Vipusa
+
+Push your Local Code
+    1. Click `ctrl` + `shift` + `'` to open the terminal in VSCode.
+    2. Add these codes one by one
+        
+        `echo "# repository-name" >> README.md`
+        
+        `git init` →lets you initialize Git in your folder.
+        
+        `git add .` → lets you add all files in the present folder. while `git add [Code.me](http://Code.me)`  add the Code.me file
+        
+        `git commit -m "first commit"` →stores the added files. Use `-m` for message followed by the actual message.
+        
+        `git branch -M main` →creates a new branch which is a new version of the repository as it appears when added, and `-M` to move the name to `main`.
+        
+        `git remote add origin yourrepositorylink(https://github.com/username/repositoryname.git`) → finally connects the local folder to the repository on GitHub. It is followed by the repository's link.
+        
+        `git push -u origin main` →pushes the code to GitHub. The `-u` flag creates a tracking reference for the branch, and `origin main` puts the code in the `main` branch.
